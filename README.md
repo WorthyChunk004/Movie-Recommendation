@@ -5,7 +5,7 @@ The recommendation based on the underlying idea that is if two persons both like
 ### Technologies Used
 
 #### Web Technologies
-Html , Css , JavaScript , Bootstrap , Django
+Html , Css , JavaScript 
 
 #### Machine Learning Library In Python3
 Numpy , Pandas , Scipy
